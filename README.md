@@ -1,5 +1,6 @@
-<h1>Hi, I'm Chehab! <br/><a href="https://github.com/Chehab-MOSAAD">Programmer</a>, <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Chehab! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cybersecurity and Programming Student</a></h1>
 
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -21,7 +22,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
