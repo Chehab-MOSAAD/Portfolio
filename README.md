@@ -1,36 +1,27 @@
-<h1>Hi, I'm Chehab! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cybersecurity and Programming Student</a></h1>
+<h1>Hi, I'm Chehab MOSAAD! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cybersecurity and Programming Student</a> <br/> Welcome on my profile 👋</h1>
 
-<!--
+<h2>🙌 About me:</h2>
+Currently a student at the UPSSITECH engineering school in the first year of Telecommunications System and Computer Networks (STRI). Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. Also, I like teamwork thus I am committed and proactive for its success.
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [Building an Active Directory HomeLab](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>JavaScript</b>
-  - [Building an Active Directory HomeLab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Developing a multiplayer pawns game](https://github.com/Chehab-MOSAAD/Projet_Aruba_game)
+- <b>C</b>
+  - [Praciting Data Structures & Algorithms in C](https://github.com/Chehab-MOSAAD/TP-Structure-de-Donnees)
+  - [Implementing a Client/Server Connection (Sockets)](https://github.com/Chehab-MOSAAD/TP-Reseaux)
+  - [Implementing a Communication Tube in UNIX](https://github.com/Chehab-MOSAAD/TP-OS)
+- <b>SQL</b>
+  - [Building & modifying Databases](https://github.com/Chehab-MOSAAD/TP-Base-de-donnees)
+- <b>Java</b>
+  - [The Art of Coding Through Testing](https://github.com/Chehab-MOSAAD/TP3-Test_TDD)
+  - [Developing an offline user app](https://github.com/Chehab-MOSAAD/TP5-Commun)
+  - [Practicing OOP through building a simulation of a Gallic village](https://github.com/Chehab-MOSAAD/TP4-Gaulois)
+  - [Using UML, inheritance-overload, redefinition and polymorphism to make the story of a Samouraï's life](https://github.com/Chehab-MOSAAD/TP-Pierre-et-Sabre)
+  - [A Coffe Machine system project](https://github.com/Chehab-MOSAAD/TP-Coffee-Machine)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> 📧 Email: Chehab.mosaad@univ-tlse3.fr
+<br/>-> ☎️ Mobile: +33(0)659343823 
+<br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
+<br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
