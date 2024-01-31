@@ -22,6 +22,5 @@ Currently a student at the UPSSITECH engineering school in the first year of Tel
 
 <h2> 🤳 Connect with me:</h2>
 -> 📧 Email: Chehab.mosaad@univ-tlse3.fr
-<br/>-> ☎️ Mobile: +33(0)659343823 
 <br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
 <br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
