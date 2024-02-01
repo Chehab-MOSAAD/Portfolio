@@ -3,7 +3,7 @@
 <h2>🙌 About me:</h2>
 Currently a student at the UPSSITECH engineering school in the first year of Telecommunications System and Computer Networks (STRI). Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. Also, I like teamwork thus I am committed and proactive for its success.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development and Technical Projects:</h2>
 
 - <b>Python</b>
   - [Developing a multiplayer pawns game](https://github.com/Chehab-MOSAAD/Projet_Aruba_game)
