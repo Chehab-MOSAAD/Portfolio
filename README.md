@@ -7,6 +7,8 @@ Currently a student at the UPSSITECH engineering school in the first year of Tel
 
 - <b>Python</b>
   - [Developing a multiplayer pawns game](https://github.com/Chehab-MOSAAD/Projet_Aruba_game)
+  - [Programming some Python functions to solve different problems](https://github.com/Chehab-MOSAAD/Prog.Python)
+  - [Learning and applying programming in Python through six sets of exercises](https://github.com/Chehab-MOSAAD/TP-Python)
 - <b>C</b>
   - [Praciting Data Structures & Algorithms in C](https://github.com/Chehab-MOSAAD/TP-Structure-de-Donnees)
   - [Implementing a Client/Server Connection (Sockets)](https://github.com/Chehab-MOSAAD/TP-Reseaux)
@@ -19,6 +21,9 @@ Currently a student at the UPSSITECH engineering school in the first year of Tel
   - [Practicing OOP through building a simulation of a Gallic village](https://github.com/Chehab-MOSAAD/TP4-Gaulois)
   - [Using UML, inheritance-overload, redefinition and polymorphism to make the story of a Samouraï's life](https://github.com/Chehab-MOSAAD/TP-Pierre-et-Sabre)
   - [A Coffe Machine system project](https://github.com/Chehab-MOSAAD/TP-Coffee-Machine)
+- <b>System Administration</b>
+  - [Setting up an Active Directory and managing workstations](https://github.com/Chehab-MOSAAD/TP-Adm-Windows)
+  - [Carrying out various work on Linux using tools such as OpenVPN, Openvswitch, Lxd, PowerShell, Apache and Jekyll](https://github.com/Chehab-MOSAAD/TP-Adm-Linux)
 
 <h2> 🤳 Connect with me:</h2>
 -> 📧 Email: Chehab.mosaad@univ-tlse3.fr
