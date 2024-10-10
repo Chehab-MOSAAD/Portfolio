@@ -1,8 +1,8 @@
 La traduction française est ci-dessous. 👇
-<h1>Hi, I'm Chehab MOSAAD! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cybersecurity and Programming Student</a> <br/> Welcome on my profile 👋</h1>
+<h1>Hi, I'm Chehab MOSAAD! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cloud and Cybersecurity Student</a> <br/> Welcome on my profile 👋</h1>
 
 <h2>🙌 About me:</h2>
-Currently a student at the UPSSITECH engineering school in the first year of Telecommunications System and Computer Networks (STRI). Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. Also, I like teamwork thus I am committed and proactive for its success.
+Currently an apprentice at the engineering school EFREI Paris in the second year of Networks and Security (RS). Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. Also, I like teamwork thus I am committed and proactive for its success.
 
 <h2>👨‍💻 Software Development and Technical Projects:</h2>
 
@@ -26,15 +26,15 @@ Currently a student at the UPSSITECH engineering school in the first year of Tel
   - [Carrying out various work on Linux using tools such as OpenVPN, Openvswitch, Lxd, PowerShell, Apache and Jekyll](https://github.com/Chehab-MOSAAD/TP-Adm-Linux)
 
 <h2> 🤳 Connect with me:</h2>
--> 📧 Email: Chehab.mosaad@univ-tlse3.fr
+-> 📧 Email: Chehab.mosaad@efrei.net
 <br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
 <br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
 
 <hr>
-<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Un étudiant en cybersécurité et programmation</a> <br/> Bienvenue sur mon profil 👋 </h1>
+<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Un étudiant en cloud et cybersécurité</a> <br/> Bienvenue sur mon profil 👋 </h1>
 
 <h2>🙌 À propos de moi :</h2> 
-Actuellement étudiant à l’école d’ingénieurs UPSSITECH en première année de Systèmes de Télécommunications et Réseaux Informatiques (STRI). Issu d’un parcours multidisciplinaire, je suis extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement. De plus, j’aime le travail d’équipe et je suis engagé et proactif pour sa réussite.
+Actuellement étudiant à la grande école d’ingénieurs EFREI Paris en deuxème année de réseaux et sécurité (RS) en apprentissage. Issu d’un parcours multidisciplinaire, je suis extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement. De plus, j’aime le travail d’équipe et je suis engagé et proactif pour sa réussite.
 
 <h2>👨‍💻 Développement logiciel et projets techniques :</h2>
 
@@ -58,6 +58,6 @@ Actuellement étudiant à l’école d’ingénieurs UPSSITECH en première ann�
   - [Effectuer divers travaux sur Linux en utilisant des outils tels que OpenVPN, Openvswitch, Lxd, PowerShell, Apache et Jekyll](https://github.com/Chehab-MOSAAD/TP-Adm-Linux)
 
 <h2> 🤳 Contactez-moi :</h2> 
--> 📧 Email : Chehab.mosaad@univ-tlse3.fr 
+-> 📧 Email : Chehab.mosaad@efrei.net 
 <br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
 <br/>-> 📱 Consultez mon site web portfolio en ligne : https://chehab-mosaad.github.io/
